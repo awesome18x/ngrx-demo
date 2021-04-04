@@ -1,7 +1,6 @@
-# AngularSuperDev
+# Angular Ngrx store
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
-
+step 1: After create a project Angular, we install ngrx with command: ng add @ngrx/store
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
