@@ -1,6 +1,7 @@
 # Angular Ngrx store
 
 step 1: After create a project Angular, we install ngrx with command: ng add @ngrx/store
+step 2: create a structure by feauture project
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
